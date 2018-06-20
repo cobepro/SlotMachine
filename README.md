@@ -44,7 +44,8 @@
 
 - Метод Spin()
 
-```        public void Spin()
+```        
+public void Spin()
         {
             int[] temp1 = Mat[0];
             int[] temp2 = Mat[1];
