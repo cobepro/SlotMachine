@@ -124,13 +124,49 @@
   <data name="game2img" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\slots pics\game2img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Penny_Slot_Machines_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\slots pics\Penny-Slot-Machines-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="game1bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\slots pics\game1bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="game2bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\slots pics\game2bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grapes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\grapes1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lemon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\lemon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lucky7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\lucky7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\melon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="orange1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\orange1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Penny_Slot_Machines_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Penny-Slot-Machines-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\plum1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grapes1h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\grapes1h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lemon1h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\lemon1h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lucky7h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\lucky7h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melon1h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\melon1h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="orange1h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\orange1h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plum1h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\slots pics\Game Fruits\plum1h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

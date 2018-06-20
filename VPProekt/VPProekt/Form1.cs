@@ -52,5 +52,7 @@ namespace VPProekt
             Game2 g = new Game2();
             g.ShowDialog();
         }
+
+
     }
 }
